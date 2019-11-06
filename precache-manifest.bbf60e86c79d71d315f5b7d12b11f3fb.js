@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a07c69cb922867cae19a3d600a20b72",
+    "revision": "eb1e8fd800743b5cd4a60f6bce617bd0",
     "url": "/take-a-break-app/index.html"
   },
   {
-    "revision": "7462bf64c64d83833434",
+    "revision": "5b5cd8b575bb67999190",
     "url": "/take-a-break-app/static/css/2.3d6e4bb6.chunk.css"
   },
   {
-    "revision": "832282fb0c5c1f088e08",
+    "revision": "c8a1326d1e09b7f9b699",
     "url": "/take-a-break-app/static/css/main.8ab581ed.chunk.css"
   },
   {
-    "revision": "7462bf64c64d83833434",
-    "url": "/take-a-break-app/static/js/2.1799411c.chunk.js"
+    "revision": "5b5cd8b575bb67999190",
+    "url": "/take-a-break-app/static/js/2.9979db44.chunk.js"
   },
   {
-    "revision": "832282fb0c5c1f088e08",
-    "url": "/take-a-break-app/static/js/main.ade76a44.chunk.js"
+    "revision": "c8a1326d1e09b7f9b699",
+    "url": "/take-a-break-app/static/js/main.627ddcb0.chunk.js"
   },
   {
     "revision": "f2edb110459745821bc1",
