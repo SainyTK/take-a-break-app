@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/take-a-break-app/static/css/main.b100e6da.chunk.css",
+    "main.js": "/take-a-break-app/static/js/main.f98a7894.chunk.js",
+    "main.js.map": "/take-a-break-app/static/js/main.f98a7894.chunk.js.map",
+    "runtime-main.js": "/take-a-break-app/static/js/runtime-main.33556535.js",
+    "runtime-main.js.map": "/take-a-break-app/static/js/runtime-main.33556535.js.map",
+    "static/js/2.443a4f86.chunk.js": "/take-a-break-app/static/js/2.443a4f86.chunk.js",
+    "static/js/2.443a4f86.chunk.js.map": "/take-a-break-app/static/js/2.443a4f86.chunk.js.map",
+    "index.html": "/take-a-break-app/index.html",
+    "precache-manifest.1a6ca6512afbd4345e1e9a15203ec95b.js": "/take-a-break-app/precache-manifest.1a6ca6512afbd4345e1e9a15203ec95b.js",
+    "service-worker.js": "/take-a-break-app/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/take-a-break-app/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/take-a-break-app/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33556535.js",
+    "static/js/2.443a4f86.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.f98a7894.chunk.js"
+  ]
+}
