@@ -10,7 +10,7 @@ import {
 import Navbar from './components/Navbar';
 import HomePage from './pages/Home';
 
-function App() {
+function App(props) {
   return (
     <Router>
       <div className="App">

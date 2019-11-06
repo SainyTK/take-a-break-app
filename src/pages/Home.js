@@ -1,13 +1,22 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
-import { Input, Button, Icon } from 'antd';
-import { Switch, Route, Link } from 'react-router-dom';
+import { Switch, Route, Redirect, useLocation } from 'react-router-dom';
 import OrderPage from './Order';
 import BottomMenuItem from '../components/Home/BottomMenuItem';
+import ProcessPage from './Process';
+import ManagePage from './Manage';
 
 const StyledWrapper = styled.div`
     position: relative;
     height: calc(100vh - 30px);
+    .content-container {
+        position: absolute;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 48px;
+        overflow-y: auto;
+    }
     .bottom-bar {
         position: fixed;
         bottom: 0;
@@ -24,28 +33,31 @@ const StyledWrapper = styled.div`
     }
 `;
 
-const availableMenus = [
-    {
-        name: 'Chicken Fried',
-        price: 29
-    },
-    {
-        name: 'Smoothy',
-        price: 30
-    }
-];
+const HomePage = (props) => {
 
-const HomePage = props => {
+    const location = useLocation();
+    const pathname = location.pathname;
 
-    const [selected, setSelected] = useState('order');
+    const [selected, setSelected] = useState(pathname.substr(1, pathname.length));
 
     return (
         <StyledWrapper>
-            <Switch>
-                <Route path='/order'>
-                    <OrderPage />
-                </Route>
-            </Switch>
+            <div className='content-container'>
+                <Switch>
+                    <Route path='/' exact>
+                        <Redirect to='/order' />
+                    </Route>
+                    <Route path='/order'>
+                        <OrderPage />
+                    </Route>
+                    <Route path='/process'>
+                        <ProcessPage />
+                    </Route>
+                    <Route path='/manage'>
+                        <ManagePage />
+                    </Route>
+                </Switch>
+            </div>
             <div className='bottom-bar'>
                 <BottomMenuItem
                     name='order'
