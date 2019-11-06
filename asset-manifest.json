@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/take-a-break-app/static/css/main.8ab581ed.chunk.css",
-    "main.js": "/take-a-break-app/static/js/main.ee76c2ce.chunk.js",
-    "main.js.map": "/take-a-break-app/static/js/main.ee76c2ce.chunk.js.map",
+    "main.js": "/take-a-break-app/static/js/main.ade76a44.chunk.js",
+    "main.js.map": "/take-a-break-app/static/js/main.ade76a44.chunk.js.map",
     "runtime-main.js": "/take-a-break-app/static/js/runtime-main.33556535.js",
     "runtime-main.js.map": "/take-a-break-app/static/js/runtime-main.33556535.js.map",
     "static/css/2.3d6e4bb6.chunk.css": "/take-a-break-app/static/css/2.3d6e4bb6.chunk.css",
     "static/js/2.1799411c.chunk.js": "/take-a-break-app/static/js/2.1799411c.chunk.js",
     "static/js/2.1799411c.chunk.js.map": "/take-a-break-app/static/js/2.1799411c.chunk.js.map",
     "index.html": "/take-a-break-app/index.html",
-    "precache-manifest.e85ac79747933f3f5adfa0ccb8412fe9.js": "/take-a-break-app/precache-manifest.e85ac79747933f3f5adfa0ccb8412fe9.js",
+    "precache-manifest.7960ced8f784389846d985ab623fec88.js": "/take-a-break-app/precache-manifest.7960ced8f784389846d985ab623fec88.js",
     "service-worker.js": "/take-a-break-app/service-worker.js",
     "static/css/2.3d6e4bb6.chunk.css.map": "/take-a-break-app/static/css/2.3d6e4bb6.chunk.css.map",
     "static/css/main.8ab581ed.chunk.css.map": "/take-a-break-app/static/css/main.8ab581ed.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.3d6e4bb6.chunk.css",
     "static/js/2.1799411c.chunk.js",
     "static/css/main.8ab581ed.chunk.css",
-    "static/js/main.ee76c2ce.chunk.js"
+    "static/js/main.ade76a44.chunk.js"
   ]
 }

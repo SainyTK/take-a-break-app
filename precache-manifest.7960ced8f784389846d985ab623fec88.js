@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9a5ae899fe07061027b4a85b7f30399",
+    "revision": "0a07c69cb922867cae19a3d600a20b72",
     "url": "/take-a-break-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/take-a-break-app/static/css/2.3d6e4bb6.chunk.css"
   },
   {
-    "revision": "224a27b09263e141f0e4",
+    "revision": "832282fb0c5c1f088e08",
     "url": "/take-a-break-app/static/css/main.8ab581ed.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/take-a-break-app/static/js/2.1799411c.chunk.js"
   },
   {
-    "revision": "224a27b09263e141f0e4",
-    "url": "/take-a-break-app/static/js/main.ee76c2ce.chunk.js"
+    "revision": "832282fb0c5c1f088e08",
+    "url": "/take-a-break-app/static/js/main.ade76a44.chunk.js"
   },
   {
     "revision": "f2edb110459745821bc1",
