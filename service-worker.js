@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/take-a-break-app/precache-manifest.c504abed43edb73fcaf7b9f85f6ba39b.js"
+  "/take-a-break-app/precache-manifest.43555fd27e004d673f53c5c523242bc3.js"
 );
 
 self.addEventListener('message', (event) => {
